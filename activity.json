@@ -1,0 +1,25 @@
+{
+  "name": "speedbandrenderactivity",
+  "version": "0.0.1",
+  "type": "flogo:activity",
+  "ref": "github.com/purna-s/speedbandrenderactivity",  
+  "title": "SpeedBandParser",
+  "description": "Render SpeedBand json into a Flogo Array",
+  "author": "purna-s <purna.sadanala@prowesssoft.com>",
+
+  "inputs":[
+    
+    
+    {
+      "name": "data",
+      "type": "string",
+      "required": true
+    }
+  ],
+  "outputs": [
+    {
+      "name": "output",
+      "type": "string"
+    }
+  ]
+}
