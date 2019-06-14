@@ -3,7 +3,7 @@ title: speedbandrenderactivity
 ---
 
 # speedbandrenderactivity
-This activity allows json string using SpeedBand schema in XMLParserActivity code
+This activity allows to render SpeedBand json string using defined SpeedBand schema
 
 ## Installation
 ### Flogo CLI
